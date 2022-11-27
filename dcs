@@ -1,0 +1,6 @@
+local test= script.parent
+
+test.CanColide=false
+
+wait(10)
+test.CanColide=true
